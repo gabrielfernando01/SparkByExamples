@@ -4,4 +4,4 @@ This post explains how to setup Apache Spark and run Spark applications on the H
 
 ### Prerequisites:
 
-If you don't have Hadoop & Yarn intalled, please [install and Setup Hadoop cluster]()
+If you don't have Hadoop & Yarn intalled, please [install and Setup Hadoop cluster](https://github.com/gabrielfernando01/SparkByExamples/tree/main/Spark%20Step-by-Step%20Setup%20on%20Hadoop%20Yarn%20Cluster/Apache%20Hadoop%20Installation%20on%20Ubuntu%20(multi-node)%20cluster) and setup 
